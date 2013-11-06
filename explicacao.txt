@@ -1,0 +1,9 @@
+Bem, fiz inicialmente um "git fork" do seu repositorio chamado Arquiteste, e adicionei dois arquivos texto.
+
+Entao fiz um "git add" e um "git commit", depois um "git push".
+
+No site fiz um pedido de MERGE para seu repositorio original, tentando misturar meus arquivos texto ja elaborados, dentro do seu original.
+
+Vamos ver como anda.
+Att.,
+Roney
