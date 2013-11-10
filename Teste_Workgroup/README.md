@@ -10,3 +10,5 @@ Entao, agora trabalhando na sua arvore original, estou testando a primeira (1) a
 Este aqui eh um segundo sub-diretorio dentro do Repositorio Arquiteste. (2)
 
 Alterado o titulo. (3)
+
+Acrescentando uma linha..
